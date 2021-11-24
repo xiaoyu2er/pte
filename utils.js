@@ -23,7 +23,7 @@ function download(url, dest, cb) {
     if (/^https/.test(url)) {
         fn = https;
     } else {
-        console.log('-- http -- ');
+        // console.log('-- http -- ');
     }
 
     fn.get(url, function (response) {

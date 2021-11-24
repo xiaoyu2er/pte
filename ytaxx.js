@@ -7,6 +7,8 @@ const { rename } = require('fs/promises');
 
 var pageSize = 30;
 
+// 不需要登录信息……
+
 async function getList(type, categories, page, pageSize) {
     var url = `https://www.ytaxx.com/api/postsV2/list?isFull=0&type=1&color=0&epodes=0&page=${page}&perPage=${pageSize}&isReal=0&categories=${categories}`;
     // console.log(url);
