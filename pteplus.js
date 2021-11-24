@@ -119,6 +119,7 @@ function download(url, dest, cb) {
     http.get(url, function (response) {
         response.pipe(file);
         file.on('finish', function () {
+            console.log('download', url, dest, 'done');
             file.close(cb);  // close() is async, call cb after close completes.
         });
     }).on('error', function (err) { // Handle errors
@@ -152,17 +153,15 @@ async function getData(type) {
     // console.log(list);
     console.log('== getAll done');
     var all = await getAllDetails(type, list);
-    console.log('== getAllDetails done', all);
+    console.log('== getAllDetails done');
 
     var str = '[]'
     try {
         str = JSON.stringify(all, null, 2);
-
     } catch (e) {
         console.error(e);
         return;
     }
-
 
     await new Promise((r) => {
         fs.writeFile(path.resolve('./data/pteplus/', type + '.json'), str, {
@@ -250,8 +249,8 @@ async function mkdirs(type) {
 var types = [
     // 'speaking/ra',
     // 'speaking/rl',
-    'speaking/rs',
-    // 'speaking/di'
+    // 'speaking/rs',
+    'speaking/di'
 ]
 
 async function main() {
