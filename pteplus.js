@@ -241,12 +241,6 @@ async function downloadFiles(type, json) {
 }
 
 
-async function mkdirs(type) {
-    await mkdirp('./data/pteplus/' + type.split('/')[0]);
-    await mkdirp('./files/pteplus/' + type);
-    console.log('mkdirs', type, 'done');
-}
-
 var types = [
     // 'speaking/ra',
     // 'speaking/rl',
