@@ -5,7 +5,9 @@ const path = require('path');
 const fetch = require('node-fetch');
 const mkdirp = require('mkdirp')
 
-async function getList(type, offset, pageSize = 40) {
+var pageSize = 40;
+
+async function getList(type, offset, pageSize) {
     var data = await fetch(`https://pteplus.com.cn/api/v3/${type}/question_list?offset=${offset}&len=${pageSize}&all=1&search_text=`, {
         "headers": {
             "accept": "application/json, text/plain, */*",
@@ -42,7 +44,7 @@ async function getAll(type) {
     var total = 0;
 
     var offset = 0;
-    var pageSize = 40;
+
 
     while (true) {
 
@@ -57,6 +59,7 @@ async function getAll(type) {
         list.push(...json.message.list);
         offset += pageSize;
 
+        // break;
         if (list.length >= total) {
             break;
         }
@@ -119,7 +122,7 @@ function download(url, dest, cb) {
             file.close(cb);  // close() is async, call cb after close completes.
         });
     }).on('error', function (err) { // Handle errors
-        console.error('err', err)
+        console.error('err', url, dest, err)
         fs.unlink(dest, (err) => {
             if (err) console.error(err);
 
@@ -148,19 +151,33 @@ async function getData(type) {
     var list = await getAll(type);
     // console.log(list);
     console.log('== getAll done');
-    list = await getAllDetails(type, list);
-    console.log('== getAllDetails done');
+    var all = await getAllDetails(type, list);
+    console.log('== getAllDetails done', all);
+
+    var str = '[]'
+    try {
+        str = JSON.stringify(all, null, 2);
+
+    } catch (e) {
+        console.error(e);
+        return;
+    }
 
 
-    fs.writeFile(path.resolve('./data/pteplus/', type + '.json'), JSON.stringify(list), {
-        flags: 'wx'
-    }, (err) => {
-        if (err) {
-            console.error(err);
-        } else {
-            console.log('done')
-        }
+    await new Promise((r) => {
+        fs.writeFile(path.resolve('./data/pteplus/', type + '.json'), str, {
+            flags: 'wx'
+        }, (err) => {
+            r();
+            if (err) {
+                console.error(err);
+            } else {
+                console.log('done')
+            }
+        })
     })
+
+    return all;
 }
 
 function getExt(url) {
@@ -184,18 +201,23 @@ function fileExists(path) {
     return false;
 }
 
-async function downloadFiles(type) {
-    // var name = `./data/pteplus/${type}.json`;
-    var json = require(`./data/pteplus/${type}.json`);
+async function downloadFiles(type, json) {
+    if (!json) {
+        var name = `./data/pteplus/${type}.json`;
+        var json = require(`./data/pteplus/${type}.json`);
+    }
     console.log('download', json.length);
     // console.log(json);
 
     for (var t of json) {
 
         var keys = ['question_image', 'question_audio'];
-        for (var k in keys) {
+        for (var k of keys) {
             if (k in t) {
                 var url = t[k].filename;
+                if (!url) {
+                    continue;
+                }
                 var name = t.question_id + '.' + getExt(url);
                 var dest = path.resolve('./files/pteplus/', type, name);
 
@@ -204,7 +226,7 @@ async function downloadFiles(type) {
                 } else {
                     try {
                         await $download(url, dest);
-                        console.log(k, name, 'done!');
+                        // console.log(k, name, 'done!');
                     } catch (e) {
                         console.error(e);
                     }
@@ -226,16 +248,16 @@ async function mkdirs(type) {
 }
 
 var types = [
-    'speaking/ra',
-    'speaking/rl',
-    // 'speaking/rs',
+    // 'speaking/ra',
+    // 'speaking/rl',
+    'speaking/rs',
     // 'speaking/di'
 ]
 
 async function main() {
     for (var type of types) {
         await mkdirs(type);
-        await getData(type);
+        var json = await getData(type);
         await downloadFiles(type);
         console.log('-- done -- ', type);
     }
