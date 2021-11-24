@@ -182,21 +182,23 @@ async function downloadFiles(type, json) {
 var categories = {
     'speaking/retellLecture': 25,
     'speaking/repeatSentence': 26,
+    'speaking/answerShortQuestion': 22,
+    'listening/summarizeSpokenText': 33,
+    'listening/writeFromDictation': 34,
+    'listening/lFillInTheBlanks': 27,
+    'writing/summarizeWrittenText': 20,
+    'writing/summarizeWrittenText': 21
 }
 
 var types = [
     // 'speaking/retellLecture',
-    'speaking/repeatSentence',
-    // 'speaking/rl',
-    // 'speaking/rs',
-    // 'speaking/di',
-    // 'speaking/asq',
-    // 'listening/sst',
-    // 'listening/wfd',
-    // 'listening/fil_l',
-    // 'listening/hiw'
-    // 'writing/swt',
-    // 'writing/essay',
+    // 'speaking/repeatSentence',
+    // 'speaking/answerShortQuestion',
+    // 'listening/summarizeSpokenText',
+    // 'listening/writeFromDictation',
+    'listening/lFillInTheBlanks',
+    // 'writing/summarizeWrittenText',
+    // 'writing/writeEssay'
 ]
 
 async function renames(type, json) {
