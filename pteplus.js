@@ -250,7 +250,8 @@ var types = [
     // 'speaking/ra',
     // 'speaking/rl',
     // 'speaking/rs',
-    'speaking/di'
+    // 'speaking/di',
+    'speaking/asq'
 ]
 
 async function main() {
