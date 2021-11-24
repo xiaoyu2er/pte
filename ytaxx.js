@@ -132,7 +132,7 @@ async function getAllDetails(type, json) {
 
 async function getData(type, categories) {
 
-    var list = await getAll(type);
+    var list = await getAll(type, categories);
 
     var str = list.map(t => {
         return `wpId ${t.id} qId ${t.questionsId}`
@@ -143,7 +143,6 @@ async function getData(type, categories) {
 
     // console.log(list);
     console.log('== getAll done', list.length);
-    // await writeDataFile(prefix, type, list);
 
     var all = await getAllDetails(type, list);
     // console.log('== getAllDetails done', all.length);
