@@ -4,24 +4,52 @@ How many roses are in a dozen?
 Twelve
 
 
+<details>
+<summary>翻译</summary>
+
+-- 一扎玫瑰是多少支？ <br />--12
+
+</details>
+            
 ## 40726
 When we say someone is doing the B.A. in history or literature in the university, what does B.A. stand for?
 
 Bachelor of Arts
 
 
+<details>
+<summary>翻译</summary>
+
+当我们说某人在大学里攻读历史或文学学士学位时，学士学位代表什么? <br />-文学士
+
+</details>
+            
 ## 40720
 What part of a room is over your head?
 
 Ceiling
 
 
+<details>
+<summary>翻译</summary>
+
+房间的哪个部分在你头上?<br />-房顶
+
+</details>
+            
 ## 40716
 What do we call a political institution of a country?
 
 Government
 
 
+<details>
+<summary>翻译</summary>
+
+一个国家的政治机构是什么？<br />- 政府
+
+</details>
+            
 ## 40708
 What do you call a person who leaves university before finishing his or her studies?
 
@@ -34,318 +62,719 @@ What do we call all the staff of a department in a college?
 Faculty
 
 
+<details>
+<summary>翻译</summary>
+
+我们怎样称呼大学一个系的全体职员? &nbsp;<br />-全体教员
+
+</details>
+            
 ## 40692
 What subject studies the life and structure of human, animals and plants?
 
 Biology
 
 
+<details>
+<summary>翻译</summary>
+
+哪个主要的科学分支研究人类的分类?<br />-生物学
+
+</details>
+            
 ## 40690
 What are the people living in Switzerland called?
 
 Swiss
 
 
+<details>
+<summary>翻译</summary>
+
+住在瑞士的人叫什么?<br />-瑞士人
+
+</details>
+            
 ## 40670
 What is the natural disaster of a sudden, violent shaking of the earth's surface?
 
 Earthquake
 
 
+<details>
+<summary>翻译</summary>
+
+地球表面突然剧烈震动的自然灾害是什么? &nbsp;<br />-地震
+
+</details>
+            
 ## 40630
 What do we call a set of answers to exercises or problems?
 
 Key
 
 
+<details>
+<summary>翻译</summary>
+
+我们把一套练习或问题的答案叫做什么? &nbsp;<br />-答案，题解
+
+</details>
+            
 ## 40628
 What do workers get by working overtime?
 
 Overtime pay
 
 
+<details>
+<summary>翻译</summary>
+
+<p class="src grammarSection" data-group="1-1">工人们通过加班得到什么?<br />- 加班费</p>
+
+</details>
+            
 ## 40620
 Which subject will teach you about the periodic table of elements?
 
 Chemistry
 
 
+<details>
+<summary>翻译</summary>
+
+哪门课会教你元素周期表? &nbsp;<br />-化学
+
+</details>
+            
 ## 40604
 Where are goods stored before sale?
 
 Warehouse
 
 
+<details>
+<summary>翻译</summary>
+
+<p class="src grammarSection" data-group="1-1">销售前货物存放在哪里?<br />-仓库</p>
+
+</details>
+            
 ## 40598
 Who is the person who gives evidence in court?
 
 Witness
 
 
+<details>
+<summary>翻译</summary>
+
+在法庭上作证的人是谁?&nbsp;&nbsp;<br />-证人
+
+</details>
+            
 ## 40596
 What do you call the daughter of your sister or brother?
 
 Niece
 
 
+<details>
+<summary>翻译</summary>
+
+你叫你姐妹或兄弟的女儿什么? <br />-侄女
+
+</details>
+            
 ## 40564
 What fruit category includes orange, mandarin and lemon?
 
 Citrus
 
 
+<details>
+<summary>翻译</summary>
+
+哪个水果类包括橘子、柑橘和柠檬? &nbsp;<br />-柑橘类的植物
+
+</details>
+            
 ## 40558
 What do we call a person who takes care of children when their parents are at work?
 
 Babysitter
 
 
+<details>
+<summary>翻译</summary>
+
+我们怎么称呼在父母上班时照顾孩子的人? &nbsp;<br />-保姆
+
+</details>
+            
 ## 40550
 What do we call a bicycle with two seats and two pairs of handles?
 
 Tandem
 
 
+<details>
+<summary>翻译</summary>
+
+一辆有两个座位和两个把手的自行车叫什么?<br />-双人自行车
+
+</details>
+            
 ## 40542
 What is the opposite of introvert?
 
 Extrovert
 
 
+<details>
+<summary>翻译</summary>
+
+外向的反义词是什么？<br />-内向
+
+</details>
+            
 ## 40508
 In the university, what do you study if you want to study the human mind and behaviors?
 
 Psychology
 
 
+<details>
+<summary>翻译</summary>
+
+在大学里，如果你想研究人类的思维和行为，你学习什么?<br />-心理学
+
+</details>
+            
 ## 40506
 What is the meeting point of the sea and the sky?
 
 Sea level
 
 
+<details>
+<summary>翻译</summary>
+
+海和天的交汇点是什么?<br />-海平面
+
+</details>
+            
 ## 40504
 What is the opposite of the word "dangerous"?
 
 Safe
 
 
+<details>
+<summary>翻译</summary>
+
+危险的反义词是什么？<br />-安全
+
+</details>
+            
 ## 40502
 What are the animals that have fins?
 
 Fish
 
 
+<details>
+<summary>翻译</summary>
+
+什么动物有鳍<br />-鱼
+
+</details>
+            
 ## 40500
 What is the adjective opposite to 'rural'?
 
 Urban
 
 
+<details>
+<summary>翻译</summary>
+
+<p class="src grammarSection" data-group="1-1">与'乡村的'相对的形容词是什么?</p>
+-城市的
+
+</details>
+            
 ## 40478
 What's the opposite direction of north?
 
 South
 
 
+<details>
+<summary>翻译</summary>
+
+北方的反方向是什么？<br />-南方
+
+</details>
+            
 ## 40476
 What does the earth revolve around？
 
 The sun
 
 
+<details>
+<summary>翻译</summary>
+
+地球围绕什么转?<br />太阳
+
+</details>
+            
 ## 40466
 What is the other state of matter except solid and gas?
 
 Liquid
 
 
+<details>
+<summary>翻译</summary>
+
+除了固体和气体之外，物质的另一种状态是什么？<br />-Liquid
+
+</details>
+            
 ## 40464
 How often does an annual meeting take?
 
 Once a year.
 
 
+<details>
+<summary>翻译</summary>
+
+年会多长时间开一次?<br />一年一次
+
+</details>
+            
 ## 40462
 What's the opposite of artificial
 
 Nature
 
 
+<details>
+<summary>翻译</summary>
+
+<p class="src grammarSection" data-group="1-1">人造的反义词是什么?<br />-自然的</p>
+
+</details>
+            
 ## 40460
 What's the antonym of maximum?
 
 Minimum
 
 
+<details>
+<summary>翻译</summary>
+
+<ul>
+<li>
+<p class="src grammarSection" data-group="1-1">最大值的反义词是什么?<br />-最小值</p>
+</li>
+</ul>
+
+</details>
+            
 ## 40430
 What is the opposite of majority?
 
 Minority 
 
 
+<details>
+<summary>翻译</summary>
+
+<p class="src grammarSection" data-group="1-1">大多数的反义词是什么?<br />-少数</p>
+
+</details>
+            
 ## 40428
 What do you call the person who is guilty in law term?
 
 Criminal
 
 
+<details>
+<summary>翻译</summary>
+
+你怎么称呼法律上有罪的人?<br />-罪犯
+
+</details>
+            
 ## 40426
 How many years does a centennial celebrate?
 
 One hundred
 
 
+<details>
+<summary>翻译</summary>
+
+<p class="src grammarSection" data-group="1-1">百年庆典要庆祝多少年?<br />-一百年</p>
+
+</details>
+            
 ## 40424
 What do we call a person who studies languages?
 
 Linguist
 
 
+<details>
+<summary>翻译</summary>
+
+<span class="transSent" data-group="0-1"><span class="transSent" data-group="0-1">我们怎样称呼学习语言的人?<br />-语言学家</span></span>
+<pre data-v-9b4227f8="">&nbsp;</pre>
+
+</details>
+            
 ## 40422
 A criminal is someone who commits a crime. In this case, who is the other one who gets hurt or injured?
 
 Victim
 
 
+<details>
+<summary>翻译</summary>
+
+<span class="tgt" data-section="0" data-sentence="0" data-group="0-0">罪犯是犯罪的人。</span><span class="tgt" data-section="0" data-sentence="1" data-group="0-1">在这种情况下，另一个受伤的人是谁?<br />- 受害者<br /></span>
+
+</details>
+            
 ## 40420
 What is the object that we use to open a window or a door?
 
 Handle
 
 
+<details>
+<summary>翻译</summary>
+
+我们用来打开窗户或门的东西是什么?<br />-拉手
+
+</details>
+            
 ## 40418
 What do we call the place that is used to remind people of a famous person who has died or an important past event?
 
 Memorial
 
 
+<details>
+<summary>翻译</summary>
+
+我们怎样称呼用来提醒人们纪念已故的名人或过去的一件重要事件的地方?<br />-纪念馆
+
+</details>
+            
 ## 40220
 We call numbers like one, three, five odd numbers, then what do we cal numbers like two, four, six?
 
 Even
 
 
+<details>
+<summary>翻译</summary>
+
+我们称数字为1、3、5为奇数，然后我们称数字为2、4、6 为?&nbsp; <br />-偶数
+
+</details>
+            
 ## 40140
 What do they call the pieces of puzzle which players try to piece together?
 
 Jigsaw
 
 
+<details>
+<summary>翻译</summary>
+
+玩家想要拼凑起来的拼图叫做什么?<br />拼图
+
+</details>
+            
 ## 40136
 What do we call a person who do things with the left hand?
 
 Left-hander
 
 
+<details>
+<summary>翻译</summary>
+
+我们怎么称呼用左手做事的人?<br />左撇子
+
+</details>
+            
 ## 40134
 What is the low land between two hills or mountains?
 
 Valley
 
 
+<details>
+<summary>翻译</summary>
+
+两座小山或山脉之间的低地是什么?<br />山谷
+
+</details>
+            
 ## 40032
 What is the form of water when it's boil？
 
 Liquid
 
 
+<details>
+<summary>翻译</summary>
+
+<p class="src grammarSection" data-group="1-1">水沸腾时是什么形式?<br />液体</p>
+
+</details>
+            
 ## 40030
 How many books are in the trilogy？
 
 Three
 
 
+<details>
+<summary>翻译</summary>
+
+<ul>
+<li>
+<p class="src grammarSection" data-group="1-1">三部曲中有多少本书?<br />三本</p>
+</li>
+</ul>
+
+</details>
+            
 ## 40000
 What is a line that divides a circle into halves?
 
 Diameter
 
 
+<details>
+<summary>翻译</summary>
+
+把圆分成两半的线是什么?<br />-直径
+
+</details>
+            
 ## 39998
 What series of process will politicians go through for election?
 
 Campaign
 
 
+<details>
+<summary>翻译</summary>
+
+政客们将通过哪些程序来进行选举?<br />竞选
+
+</details>
+            
 ## 39996
 How many days are there in a fortnight?
 
 Fourteen
 
 
+<details>
+<summary>翻译</summary>
+
+<ul>
+<li>
+<p class="src grammarSection" data-group="1-1">两星期有多少天?<br />十四天</p>
+</li>
+</ul>
+
+</details>
+            
 ## 39994
 How many days are added in February during a leap year?
 
 One
 
 
+<details>
+<summary>翻译</summary>
+
+闰年的二月加了多少天?<br />一天
+
+</details>
+            
 ## 39988
 What do we call the ship that runs underwater?
 
 Submarine
 
 
+<details>
+<summary>翻译</summary>
+
+在水下航行的船叫什么?<br />潜水艇
+
+</details>
+            
 ## 39984
 What is the skeleton made of ?
 
 Bones
 
 
+<details>
+<summary>翻译</summary>
+
+<ul>
+<li>
+<p class="src grammarSection" data-group="1-1">骨架是由什么构成的?<br />骨头</p>
+</li>
+</ul>
+
+</details>
+            
 ## 39956
 How many years are there in a bicentennial?
 
 Two hundred 
 
 
+<details>
+<summary>翻译</summary>
+
+<ul>
+<li>
+<p class="src grammarSection" data-group="1-1">两百周年有多少年?<br />两百年</p>
+</li>
+</ul>
+
+</details>
+            
 ## 39952
 What do we call the sound when people clap their hands?
 
 Applause
 
 
+<details>
+<summary>翻译</summary>
+
+我们把人们拍手的声音叫做什么?<br />掌声
+
+</details>
+            
 ## 39924
 What does thermometer measure?
 
 Temperature
 
 
+<details>
+<summary>翻译</summary>
+
+<ul>
+<li>
+<p class="src grammarSection" data-group="1-1">温度计测量什么?<br />温度计</p>
+</li>
+</ul>
+
+</details>
+            
 ## 39818
 What is the nominal form of the wide?
 
 width
 
 
+<details>
+<summary>翻译</summary>
+
+<ul>
+<li>
+<p class="src grammarSection" data-group="1-1">宽的名词形式是什么?<br />宽度</p>
+</li>
+</ul>
+
+</details>
+            
 ## 39816
 What kind of things that the students will receive at the end of the term?
 
 transcript
 
 
+<details>
+<summary>翻译</summary>
+
+学生们在学期末会收到什么样的东西?<br />成绩单
+
+</details>
+            
 ## 39814
 There is a kind of word, such as the UN represents for the United Nations, what do we call this kind of word?
 
 abbreviation
 
 
+<details>
+<summary>翻译</summary>
+
+有一种词，比如UN代表联合国，我们把这种词叫什么?<br />缩略词
+
+</details>
+            
 ## 39802
 If you are celebrating a biannual activity, how many years ago did you celebrate it last time?
 
 Half a year
 
 
+<details>
+<summary>翻译</summary>
+
+如果你在庆祝一年两次的活动，你上一次庆祝是多少年前?<br />半年前
+
+</details>
+            
 ## 39776
 What do we call the people who study religion?
 
 Theologists
 
 
+<details>
+<summary>翻译</summary>
+
+我们怎么称呼研究宗教的人?<br />宗教学家
+
+</details>
+            
 ## 39712
 What do you call a difficult time when economic activities slow down, and there are more people unemployed?
 
 Recession
 
 
+<details>
+<summary>翻译</summary>
+
+当经济活动减缓，失业人数增多时，你称其为什么时期?<br />衰退时期
+
+</details>
+            
 ## 39501
 What is the description of events that is spoken with background music during a film or a play?
 
@@ -364,12 +793,26 @@ When trains or cars need to go through a mountain, where do they enter the mount
 Tunnel
 
 
+<details>
+<summary>翻译</summary>
+
+当火车或汽车需要经过一座山时，他们从哪里进入这座山?<br />隧道
+
+</details>
+            
 ## 39409
 Which season in four seasons has the lowest temperature?
 
 Winter
 
 
+<details>
+<summary>翻译</summary>
+
+四季中哪个季节的温度最低?<br />冬天
+
+</details>
+            
 ## 39405
 Whose job is working on the boat?
 
@@ -394,6 +837,13 @@ What do you call students in universities who have not yet graduated?
 Undergraduates
 
 
+<details>
+<summary>翻译</summary>
+
+你怎么称呼大学里尚未毕业的学生?<br />大学生
+
+</details>
+            
 ## 39361
 What do we call famous people?
 
@@ -418,42 +868,96 @@ What do people and animals need to survive on earth?
 air/food/water
 
 
+<details>
+<summary>翻译</summary>
+
+人类和动物需要什么才能在地球上生存?<br />空气/食物/水
+
+</details>
+            
 ## 39287
 If an event happened in 1640,what century is it?
 
 17th century
 
 
+<details>
+<summary>翻译</summary>
+
+如果一件事发生在1640年，那是哪个世纪?<br />十七世纪
+
+</details>
+            
 ## 39243
 What object rises from the east and falls in the west?
 
 The sun
 
 
+<details>
+<summary>翻译</summary>
+
+什么东西从东方升起，从西方落下?<br />太阳
+
+</details>
+            
 ## 39241
 What is the name of an animal doctor?
 
 A veterinarian
 
 
+<details>
+<summary>翻译</summary>
+
+<p class="src grammarSection" data-group="1-1">治疗动物的医生叫什么?</p>
+<span style="font-size: 14pt;">兽医</span>
+
+</details>
+            
 ## 39235
 What is the speech that is spoken by only one actor?
 
 Monolog
 
 
+<details>
+<summary>翻译</summary>
+
+只有一个演员讲话的是什么?<br />独白
+
+</details>
+            
 ## 39213
 What kind of habitat do camel live in?
 
 Desert
 
 
+<details>
+<summary>翻译</summary>
+
+<ul>
+<li>
+<p class="src grammarSection" data-group="1-1">骆驼生活在什么样的栖息地?<br />沙漠</p>
+</li>
+</ul>
+
+</details>
+            
 ## 38813
 What is the opposite of division in mathematics?
 
 Multiplication
 
 
+<details>
+<summary>翻译</summary>
+
+在数学中除法的反义词是什么?<br />乘法
+
+</details>
+            
 ## 38807
 What do you throw underwater to keep ships staying on rivers or oceans without drifting away?
 
@@ -466,6 +970,13 @@ What is the occupation that transfers one language to another language?
 Translator
 
 
+<details>
+<summary>翻译</summary>
+
+将一种语言转换成另一种语言的职业是什么?<br />翻译
+
+</details>
+            
 ## 38803
 What do forks,spoons,and knives belong to?
 
@@ -484,18 +995,43 @@ How to call the crew working on ships?
 Mariner/Sailor
 
 
+<details>
+<summary>翻译</summary>
+
+<ul>
+<li>
+<p class="src grammarSection" data-group="1-1">如何称呼在船上工作的船员?<br />水手</p>
+</li>
+</ul>
+
+</details>
+            
 ## 38681
 What is a word or expression that has the same or nearly the same meaning as another in the same language?
 
 Synonym
 
 
+<details>
+<summary>翻译</summary>
+
+在同一种语言中，一个词或短语与另一个词或短语有相同或几乎相同的意思是什么?<br />近义词
+
+</details>
+            
 ## 38631
 What do we call the behavior that people cannot sleep?
 
 insomnia
 
 
+<details>
+<summary>翻译</summary>
+
+我们把人们睡不着的行为称为什么?<br />失眠
+
+</details>
+            
 ## 38621
 How do we call the movements that the baby moves by using their legs and hands?
 
@@ -550,6 +1086,13 @@ What is the act of students being present at school?
 Attendance
 
 
+<details>
+<summary>翻译</summary>
+
+学生在学校的行为是什么?<br />考勤
+
+</details>
+            
 ## 38436
 null
 
@@ -845,12 +1388,26 @@ When you use Microsoft Word,what does "Times New Roman" mean?
 Font
 
 
+<details>
+<summary>翻译</summary>
+
+当你使用Microsoft Word时，&ldquo;Times New Roman&rdquo;是什么意思?<br />-字体
+
+</details>
+            
 ## 36409
 What is the default font when you first open the Microsoft Word,Arial or Times New Roman?
 
 Times New Roman
 
 
+<details>
+<summary>翻译</summary>
+
+当您第一次打开Microsoft Word, Arial或Times New Roman时，默认字体是什么?<br />-Times New Roman
+
+</details>
+            
 ## 36407
 How many wheels does a bicycle have?
 
@@ -881,6 +1438,13 @@ What do we call the "Times New Roman" in the computer?
 Font
 
 
+<details>
+<summary>翻译</summary>
+
+在电脑里我们把&ldquo;Times New Roman&rdquo;叫做什么?<br />-字体
+
+</details>
+            
 ## 36353
 null
 
@@ -893,6 +1457,13 @@ How do you call the siblings that born from your mother at the same time?
 Twins
 
 
+<details>
+<summary>翻译</summary>
+
+你怎么称呼你母亲生与你同时出生的兄弟姐妹?<br />-双胞胎
+
+</details>
+            
 ## 36210
 What is the music that is recorded for a movie or a film?
 
@@ -1271,6 +1842,13 @@ What are the paintings or photos of people especially when it includes someone�
 Portrait 
 
 
+<details>
+<summary>翻译</summary>
+
+什么是人的画或照片，特别是当它包含某人的脸，头和肩膀?<br />-自画像
+
+</details>
+            
 ## 31221
 What are the people who study ancient bones or plants in rocks?
 
@@ -1325,6 +1903,13 @@ What is the device that shows the time of the day according to the shadow of sun
 Sundial
 
 
+<details>
+<summary>翻译</summary>
+
+根据阳光的阴影来显示时间的装置是什么?<br />-日晷
+
+</details>
+            
 ## 30848
 What do we call the prize that sponsored by Sweden which sets many prize in literal and physics field?
 
@@ -1565,6 +2150,13 @@ How many times does a biannual magazine published in one year?
 Twice 
 
 
+<details>
+<summary>翻译</summary>
+
+半年度杂志一年出版多少次?<br />-两次
+
+</details>
+            
 ## 27650
 Do unions work for workers or management? 
 
@@ -2099,6 +2691,13 @@ In addition to the A,E,I,O,what is the other vowel?
 U
 
 
+<details>
+<summary>翻译</summary>
+
+除了A, E, I, O，其他元音是什么?<br />-U
+
+</details>
+            
 ## 16515
 If you want to buy a ring,who do you approach,a jeweler or a pharmacist?
 
@@ -2549,6 +3148,13 @@ Which sense does a noisy environment affect?
 Hearing
 
 
+<details>
+<summary>翻译</summary>
+
+嘈杂的环境影响哪个感官？<br />-听觉
+
+</details>
+            
 ## 4951
 null
 
@@ -3179,12 +3785,26 @@ If someone lives in an urban area,where do they live?
 City/Town
 
 
+<details>
+<summary>翻译</summary>
+
+如果有人住在市区，他们住在哪里?<br />-城市
+
+</details>
+            
 ## 4727
 What does a king or queen wear on their head at official ceremonies?
 
 Crown
 
 
+<details>
+<summary>翻译</summary>
+
+国王或王后在正式仪式上戴什么?<br />-王冠
+
+</details>
+            
 ## 4725
 What do we call a book that contains lots of words with their meanings
 
@@ -3629,6 +4249,13 @@ If telescopes are used to locate distant objects, what instrument is employed to
 Microscope
 
 
+<details>
+<summary>翻译</summary>
+
+如果望远镜用来定位遥远的物体，那么用什么仪器来放大极小的物体呢?<br />-显微镜
+
+</details>
+            
 ## 4577
 null
 
@@ -3935,6 +4562,13 @@ What do we call a period of 100 years?
 Century
 
 
+<details>
+<summary>翻译</summary>
+
+我们把100年叫做什么?<br />-世纪
+
+</details>
+            
 ## 4465
 What appliance do people use to keep their food cool and prevent it from spoiling?
 
@@ -4067,6 +4701,13 @@ How would you describe an economy that is largely based on farming?
 Agricultural economy
 
 
+<details>
+<summary>翻译</summary>
+
+你如何描述一个主要以农业为基础的经济?<br />-农耕经济
+
+</details>
+            
 ## 4417
 null
 

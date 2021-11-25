@@ -1,8 +1,8 @@
-const { mkdirs } = require('./utils');
+const { mkdirs, fileExists } = require('./utils');
 const fs = require('fs');
 const mkdirp = require('mkdirp');
 
-function handleAsq() {
+function handleAsq(needTrans) {
     var asq = require('./data/pteplus/speaking/asq.json');
     var demo = {
         "question_id": 14978,
@@ -80,7 +80,7 @@ function handleAsq() {
 
             str += t.a + '\n\n';
 
-            if (t.zh) {
+            if (needTrans && t.zh) {
 
 
                 str += `
@@ -94,7 +94,7 @@ ${t.zh}
             }
             return str;
         })
-        .join('\n\n');
+        .join('\n');
 
     return str
 }
@@ -102,10 +102,22 @@ ${t.zh}
 
 
 async function main() {
-    var str = handleAsq();
     await mkdirp('./text/pteplus/speaking');
+
+    var str = handleAsq(false);
     var path = './text/pteplus/speaking/asq.md';
-    fs.unlinkSync(path)
+    if (fileExists(path)) {
+        fs.unlinkSync(path)
+    }
+
+    fs.writeFileSync(path, str, { flag: 'wx' });
+
+    var str = handleAsq(true);
+
+    var path = './text/pteplus/speaking/asq_zh.md';
+    if (fileExists(path)) {
+        fs.unlinkSync(path)
+    }
     fs.writeFileSync(path, str, { flag: 'wx' });
 }
 

@@ -1,8 +1,8 @@
-const { mkdirs } = require('./utils');
+const { mkdirs, fileExists } = require('./utils');
 const fs = require('fs');
 const mkdirp = require('mkdirp');
 
-function handleAsq() {
+function handleAsq(needTrans) {
     var asq = require('./data/ytaxx/speaking/answerShortQuestion.json');
     var demo = {
         "id": 25071,
@@ -58,7 +58,7 @@ function handleAsq() {
 
             str += t.a + '\n\n';
 
-            if (t.zh) {
+            if (needTrans && t.zh) {
 
 
                 str += `
@@ -72,7 +72,7 @@ ${t.zh}
             }
             return str;
         })
-        .join('\n\n');
+        .join('\n');
 
     return str
 }
@@ -80,9 +80,22 @@ ${t.zh}
 
 
 async function main() {
-    var str = handleAsq();
     await mkdirp('./text/ytaxx/speaking');
-    fs.writeFileSync('./text/ytaxx/speaking/asq.md', str, { flag: 'wx' });
+    var str = handleAsq(false);
+    var path = './text/ytaxx/speaking/asq.md';
+    if (fileExists(path)) {
+        fs.unlinkSync(path)
+    }
+    fs.writeFileSync(path, str, { flag: 'wx' });
+
+    var str = handleAsq(true);
+    var path = './text/ytaxx/speaking/asq_zh.md';
+    if (fileExists(path)) {
+        fs.unlinkSync(path)
+    }
+    fs.writeFileSync(path, str, { flag: 'wx' });
+
+
 }
 
 
