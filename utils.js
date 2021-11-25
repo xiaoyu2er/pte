@@ -85,10 +85,10 @@ function fileExists(path) {
     return false;
 }
 
-function writeDataFile(prefix, type, all) {
+function writeDataFile(prefix, type, data) {
     var str = '[]'
     try {
-        str = JSON.stringify(all, null, 2);
+        str = JSON.stringify(data, null, 2);
     } catch (e) {
         console.error(e);
         return;
